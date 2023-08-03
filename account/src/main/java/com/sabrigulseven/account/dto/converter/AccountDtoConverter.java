@@ -1,5 +1,6 @@
-package com.sabrigulseven.account.dto;
+package com.sabrigulseven.account.dto.converter;
 
+import com.sabrigulseven.account.dto.AccountDto;
 import com.sabrigulseven.account.model.Account;
 import org.springframework.stereotype.Component;
 
